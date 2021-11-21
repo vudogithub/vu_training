@@ -50,6 +50,16 @@
       <recent name="C:\xampp\htdocs\Boostrap\SASS\img" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Boostrap/SASS/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,6 +77,8 @@
       <workItem from="1637394284444" duration="183000" />
       <workItem from="1637394470014" duration="8773000" />
       <workItem from="1637458708940" duration="836000" />
+      <workItem from="1637459584116" duration="315000" />
+      <workItem from="1637459903952" duration="472000" />
     </task>
     <servers />
   </component>
